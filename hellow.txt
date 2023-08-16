@@ -2,8 +2,6 @@ hellow atguigu!
 hellow git
 hellow MU
 hellow 10.38
-add 10.51
-add 10.53
-today is 2023.08.16.20.15
-22222222222222222  by now
-qqqqqqqq
+now is 2023/8/16 21.25
+
+
